@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there 🙋‍♂️<br><br>I’m Vukasin, a Full Stack Developer based in Serbia.<br><br>I develop and build whatever I can imagine.<br>If an idea pops into my head, chances are I’ll build it and ship it.<br><br>My main tech stack is the MERN stack.<br>My favorite tools are React, Tailwind and Node.js.<br><br>I’ve got a bunch of pinned projects, but my favorite is the Online E-commerce Shop.<br><br>I’ve built over 100 repositories privately. It’s probably more than 200 at this point.<br><br>Fun Facts:<br>• I don’t like coffee or tea<br>• I have two dogs<br>• Hobbies: Anime, Gym, Building<br>• I enjoy starting projects from scratch and taking them all the way to deployment
+Hey there 🙋‍♂️<br><br>I’m Vukasin, a Software Engineer based in Serbia.<br><br>I develop and build whatever I can imagine.<br>If an idea pops into my head, chances are I’ll build it and ship it.<br><br>My main tech stack is the MERN stack.<br>My favorite tools are React, Tailwind and Node.js.<br><br>I’ve got a bunch of pinned projects, but my favorite is the Online E-commerce Shop.<br><br>I’ve built over 100 repositories privately. It’s probably more than 200 at this point.<br><br>Fun Facts:<br>• I don’t like coffee or tea<br>• I have two dogs<br>• Hobbies: Anime, Gym, Building<br>• I enjoy starting projects from scratch and taking them all the way to deployment
 
 
 ## 🌐 Socials:
